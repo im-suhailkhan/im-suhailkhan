@@ -4,7 +4,8 @@
 
 **Product Manager | AI & Startup Enthusiast** 🚀
 
-Passionate about building impactful products that drive innovation and user value. From founding startups to leading product launches in AI safety, I thrive at the intersection of technology, user needs, and business growth.
+I'm a passionate Product Manager who brings the logic of a Programmer, the innovation of an Entrepreneur, and the storytelling fineness of a Marketer. 
+                    6+ years driving impactful outcomes across product management, AI, software development, and growth initiatives.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/suhailkhan/](https://www.linkedin.com/in/iam-suhail))
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/yourusername](https://github.com/im-suhailkhan))
@@ -14,20 +15,13 @@ Passionate about building impactful products that drive innovation and user valu
 
 </div>
 
-## 🌟 About Me
-
-- 🔭 **Introduction**: I'm a passionate Product Manager who brings the logic of a Programmer, the innovation of an Entrepreneur, and the storytelling fineness of a Marketer. 
-                    6+ years driving impactful outcomes across product management, AI, software development, and growth initiatives.
-- 🤝 **Open to Collaborate**: Actively seeking AI Product Management opportunities. Let's connect on innovative projects in AI ethics, generative models, and scalable tech solutions!
-- ⚡ **Fun Fact**: Avid learner in LLMs and agentic AI—exploring how they reshape product design and user experiences.
-
 ## 🛠 Key Skills & Tools
 
 | Category          | Tools & Expertise |
 |-------------------|-------------------|
 | **Product Management** | Roadmapping, User Research, A/B Testing, Jira, Figma |
-| **AI/ML Focus**   | LLMs (e.g., GPT models), Evaluation Strategies, Ethical AI, Generative Tools |
-| **Analytics**     | Google Analytics, SEMRush, SQL, Data Visualisation |
+| **AI/ML Focus**   | LLMs, RAG, MCP, LLM Evaluation Strategies, Ethical AI, Generative Tools |
+| **Analytics**     | Google Analytics, SEMRush, SQL, Data Visualisation, Retool |
 | **Development**   | Full-Stack Basics (Java, Node.js, Python), App Development (Android), AWS, MongoDB |
 | **Soft Skills**   | Cross-Functional Leadership, Stakeholder Mangement |
 
