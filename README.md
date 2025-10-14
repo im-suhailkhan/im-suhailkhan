@@ -24,14 +24,3 @@ I'm a passionate Product Manager who brings the logic of a Programmer, the innov
 | **Analytics**     | Google Analytics, SEMRush, SQL, Data Visualisation, Retool |
 | **Development**   | Full-Stack Basics (Java, Node.js, Python), App Development (Android), AWS, MongoDB |
 | **Soft Skills**   | Cross-Functional Leadership, Stakeholder Mangement |
-
-<div align="center">
-
-**Let's build the future together!** 💡  
-[✉️ Say Hello](mailto:suhailk@tepper.cmu.edu) 
-
-</div>
-
----
-
-*Last Updated: October 2025* 
