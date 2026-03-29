@@ -2,7 +2,7 @@
 
 # Hi, I'm Suhail Khan! 👋
 
-**Product Manager | AI & Startup Enthusiast** 🚀
+**Product Manager | AI & Startup Enthusiast | Builder** 🚀
 
 I'm a passionate Product Manager who brings the logic of a Programmer, the innovation of an Entrepreneur, and the storytelling fineness of a Marketer. 
                     6+ years driving impactful outcomes across product management, AI, software development, and growth initiatives.
