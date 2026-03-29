@@ -19,7 +19,7 @@ I'm a passionate Product Manager who brings the logic of a Programmer, the innov
 | Category          | Tools & Expertise |
 |-------------------|-------------------|
 | **Product Management** | Roadmapping, User Research, A/B Testing, Jira, Figma |
-| **AI/ML Focus**   | LLMs, RAG, MCP, LLM Evaluation Strategies, Ethical AI, Generative Tools |
+| **AI/ML Focus**   | AI Agents(LangGraph/Amazon Bedrock), MAS, LLMs, RAG, MCP, LLM Evaluation, Guardrails |
 | **Analytics**     | Google Analytics, SEMRush, SQL, Data Visualisation, Retool |
 | **Development**   | Full-Stack Basics (Java, Node.js, Python), App Development (Android), AWS, MongoDB |
 | **Soft Skills**   | Cross-Functional Leadership, Stakeholder Mangement |
